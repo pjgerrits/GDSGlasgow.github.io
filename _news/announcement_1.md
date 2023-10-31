@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-10-31
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Welcome to the new home of the Geospatial Data Science Group at the University of Glasgow!
+
+You can find information on our team, projects, and publications, or head over to our blog for our latest posts on all things geospatial.

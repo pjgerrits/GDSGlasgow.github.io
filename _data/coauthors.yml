@@ -1,34 +1,75 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Basiri":
+  - firstname: ["Ana", "Anahid"]
+    url: /team/ana
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Sutton":
+  - firstname: [Dominick]
+    url: /team/dominick
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Barberi":
+  - firstname: ["Edo", "Edoardo"]
+    url: /team/edo
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Jamshed":
+  - firstname: ["Fawad"]
+    url: /team/fawad
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Solomon":
+  - firstname: ["Guy"]
+    url: /team/guy
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Turton":
+  - firstname: ["Ian"]
+    url: /team/ian
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Nieves":
+  - firstname: ["Jeremiah"]
+    url: /team/jeremiah
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Shingleton":
+  - firstname: ["Joe", "Joseph"]
+    url: /team/joe
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Gee":
+  - firstname: ["Lorna"]
+    url: /team/lorna
+
+"Johnston":
+  - firstname: ["Matt"]
+    url: /team/matt
+
+"Polat Kayali":
+  - firstname: ["Merve"]
+    url: /team/merve
+
+"Fidel Pereira":
+  - firstname: ["Miguel"]
+    url: /team/miguel
+
+# "Wang":
+#   - firstname: ["Mingshu"]
+#     url: /team/mingshu
+
+"Gerrits":
+  - firstname: ["Piet", "Petrus"]
+    url: /team/piet
+
+"Deng":
+  - firstname: ["Rui"]
+    url: /team/rui
+
+"Yuan":
+  - firstname: ["Xinyi"]
+    url: /team/xinyi
+
+"Wang":
+  - firstname: ["Yu"]
+    url: /team/yu
+
+"Li":
+  - firstname: ["Ziqi"]
+    url: /team/ziqi
+
+"Xian":
+  - firstname: ['Xinyan']
+    url: /team/xinyan
