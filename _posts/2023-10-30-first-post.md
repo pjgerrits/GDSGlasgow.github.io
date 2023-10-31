@@ -2,6 +2,7 @@
 layout: post
 title:  Welcome to the home of the Geospatial Data Science Group at the University of Glasgow
 date:   2023-10-30
+author: Guy Solomon
 description: about us
 tags:
 categories: team
