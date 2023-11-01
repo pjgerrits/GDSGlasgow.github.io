@@ -23,7 +23,7 @@ profile:
     linkedin: joe-shingleton-95b742176 
     orcid: 0000-0002-1628-3231 
     github: jshng-glasgow 
-    researchgate: Joseph-Shingleton-2175201229
+    researchgate_noprofile: Joseph-Shingleton-2175201229
     address:
 ---
 <br>

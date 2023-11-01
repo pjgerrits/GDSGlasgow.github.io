@@ -50,8 +50,14 @@ nav_order: 2
                     {% if member.profile.gitlab %}
                         <a href="https://gitlab.com/{{ member.profile.gitlab }}" class="card-link" target="_blank"><i class="fab fa-gitlab"></i></a>
                     {% endif %}
-                    {% if member.profile.gitlab %}
+                    {% if member.profile.mastodon %}
                         <a href="https://mastodon.social/{{ member.profile.mastodon }}" class="card-link" target="_blank"><i class="fab fa-mastodon"></i></a>
+                    {% endif %}
+                    {% if member.profile.researchgate %}
+                        <a href="https://www.researchgate.net/profile/{{ member.profile.researchgate }}" class="card-link" target="_blank"><i class="fab fa-researchgate"></i></a>
+                    {% endif %}
+                    {% if member.profile.researchgate_noprofile %}
+                        <a href="https://www.researchgate.net/scientific-contributions/{{ member.profile.researchgate_noprofile }}" class="card-link" target="_blank"><i class="fab fa-researchgate"></i></a>
                     {% endif %}
                     {% if member.profile.website %}
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
