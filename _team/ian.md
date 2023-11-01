@@ -24,7 +24,7 @@ profile:
     linkedin: ianturton
     orcid: 0000-0001-5631-6491
     address:
-    mastodon: ianturton@fosstodon.org
+    mastodon: '@ianturton@fosstodon.org'
     github: ianturton
     gitlab: ijturton
 ---
