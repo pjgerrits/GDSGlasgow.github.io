@@ -21,7 +21,7 @@ profile:
     image: ian.jpg
     email: Ian.Turton@glasgow.ac.uk
     twitter:
-    linkedin: /ianturton
+    linkedin: ianturton
     orcid: 0000-0001-5631-6491
     address:
     mastodon: ianturton@fosstodon.org
