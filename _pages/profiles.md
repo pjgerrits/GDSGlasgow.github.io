@@ -47,6 +47,9 @@ nav_order: 2
                     {% if member.profile.github %}
                         <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
                     {% endif %}
+                    {% if member.profile.gitlab %}
+                        <a href="https://gitlab.com/{{ member.profile.gitlab }}" class="card-link" target="_blank"><i class="fab fa-gitlab"></i></a>
+                    {% endif %}
                     {% if member.profile.website %}
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
                     {% endif %}
