@@ -16,7 +16,7 @@ teaser: >
 
 profile:
     name: Ian Turton
-    position: Research Software Data Scientist
+    position: Research Software Engineer
     align: right
     image: ian.jpg
     email: Ian.Turton@glasgow.ac.uk
