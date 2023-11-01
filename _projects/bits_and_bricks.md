@@ -4,7 +4,7 @@ title: Bridging Bits and Bricks
 description: Harnessing Cellular Signals for Smarter Cities
 img: assets/img/project_images/cityscape_1.jpg
 importance: 2
-category: 'Missingness as data'
+category: 'Our projects'
 related_publications:
 ---
 

@@ -4,7 +4,7 @@ title: Indicative Data Science
 description: Extracting 3D Models of Cities from Unavailability and Degradation of Global Navigation Satellite Systems (GNSS)
 img: assets/img/project_images/cityscape_2.jpg
 importance: 1
-category: 'Missingness as data'
+category: 'Our projects'
 related_publications:
 ---
 

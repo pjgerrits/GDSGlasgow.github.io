@@ -5,7 +5,7 @@ permalink: /projects/
 description: our research projects.
 nav: true
 nav_order: 3
-display_categories: ['Missingness as data', 'Responsible data']
+display_categories: ['Our projects', 'Community projects where we contribute']
 horizontal: false
 ---
 

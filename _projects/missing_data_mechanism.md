@@ -4,7 +4,7 @@ title: Missing data mechanisms
 description: Missing data is a universal problem with data sets but there are still many aspects that are not fully explored
 img: assets/img/project_images/missing_data.jpg
 importance: 3
-category: 'Missingness as data'
+category: 'Our projects'
 related_publications:
 ---
 The purpose of the project is to develop a method to identify missing data mechanism both from the pattern of missingness in the data and the use of location information, where available.  
