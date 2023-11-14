@@ -23,5 +23,6 @@ profile:
     linkedin:
     orcid:
     address:
+    uofg: /schools/ges/staff/fawadjamshed/
 ---
 

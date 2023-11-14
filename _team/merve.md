@@ -23,6 +23,7 @@ profile:
     linkedin: mmervepolat
     orcid: 0009-0009-6949-4284
     address:
+    uofg: /pgrs/mervepolatkayali/
 ---
 <br>
 

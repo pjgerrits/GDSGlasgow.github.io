@@ -26,6 +26,7 @@ profile:
     github: jjniev01
     address:
     researchgate: Jeremiah-Nieves
+    uofg: /schools/ges/staff/jeremiahnieves/
 ---
 <br>
 

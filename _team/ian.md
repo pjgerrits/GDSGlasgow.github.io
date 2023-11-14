@@ -28,6 +28,8 @@ profile:
     github: ianturton
     gitlab: ijturton
     researchgate: Ian-Turton
+    website: https://www.ianturton.com/
+    uofg: 'schools/ges/staff/ianturton/'
 ---
 <br>
 

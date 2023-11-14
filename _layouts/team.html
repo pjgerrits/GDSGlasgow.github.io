@@ -37,6 +37,7 @@ layout: default
             {% if page.profile.researchgate %}<br /><a href="https://www.researchgate.net/profile/{{ page.profile.researchgate }}" target="_blank"><i class="fab fa-researchgate"></i> {{ page.profile.researchgate }}</a>{% endif %}
             {% if page.profile.researchgate_noprofile %}<br /><a href="https://www.researchgate.net/scientific-contributions/{{ page.profile.researchgate_noprofile }}" target="_blank"><i class="fab fa-researchgate"></i> {{ page.profile.researchgate_noprofile }}</a>{% endif %}
             {% if page.profile.website %}<br /><a href="{{ page.profile.website }}" target="_blank"><i class="fas fa-globe"></i> {{ page.profile.website }}</a>{% endif %}
+            {% if page.profile.uofg %}<br /><a href="https://www.gla.ac.uk/{{ page.profile.uofg }}" target="_blank"><i class="fas fa-university"></i> {{ page.profile.name }}</a>{% endif %}
           </p>
           <p class="post">{{ page.profile.address }}</p>
         </div>

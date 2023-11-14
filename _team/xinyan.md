@@ -5,7 +5,7 @@ group: students
 group_rank: 2
 weight: 8
 
-title: Xinyan Xian
+title:  
 description: PhD candidate
 lastname: Xian
 publications: 'author^=*Xian'

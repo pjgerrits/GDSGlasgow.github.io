@@ -23,6 +23,7 @@ profile:
     linkedin: guy-solomon-51994226b
     orcid: 0000-0002-4394-1498
     address:
+    uofg: /schools/ges/staff/guysolomon/
 ---
 Guy is an interdisciplinary researcher, with a background in geography, economic history, digital humanities, and economics. Currently, he works on the mathematics of cities with a particular emphasis on minority groups. His broader interests relate to the evolution of city systems over time, mathematical and statistical modelling, and economic development.
 

@@ -25,6 +25,7 @@ profile:
     github: jshng-glasgow 
     researchgate_noprofile: Joseph-Shingleton-2175201229
     address:
+    uofg: /schools/ges/staff/josephshingleton/
 ---
 <br>
 

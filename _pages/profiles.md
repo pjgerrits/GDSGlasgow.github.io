@@ -62,6 +62,9 @@ nav_order: 2
                     {% if member.profile.website %}
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
                     {% endif %}
+                    {% if member.profile.uofg %}
+                        <a href="https://www.gla.ac.uk/{{ member.profile.uofg }}" class="card-link" target="_blank"><i class="fas fa-university"></i></a>
+                    {% endif %}
                 </div>
             </div>
         </div>

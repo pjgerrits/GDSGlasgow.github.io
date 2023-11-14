@@ -23,6 +23,7 @@ profile:
     linkedin: anahid-basiri-3643b3210
     orcid: 0000-0002-2399-1797
     address:
+    uofg: /schools/ges/staff/anabasiri/
 ---
 
 Ana works on developing (theoretical and applied) solutions to the challenges of ‘new forms of data’ such as missingness and biases. These solutions are based on the mindset that considers the bias, missingness, or low quality as a useful source of data to make inference about the underlying reasons for the missingness and bias. One application of this is extracting the 3D map of cities using the patterns of blockage, reflection, and attenuation of the GPS signals (or other similar signals), that are contributed by the volunteers/crowd.

@@ -23,5 +23,6 @@ profile:
     linkedin:
     orcid: 0009-0003-7790-3662
     address:
+    uofg: /schools/ges/staff/xinyiyuan/
 ---
 

@@ -23,6 +23,7 @@ profile:
     linkedin:
     orcid:
     address:
+    uofg: /schools/ges/staff/mattjohnston/
 ---
 Matt is a research assistant in the School of Geographical & Earth Sciences. His research focuses on the intersection of environmental governance policy and socio-technical change. Currently, the purpose of his work is to enhance the social and environmental outcomes of developments in data science and artificial intelligence with evidence-based policymaking advocacy.
 
