@@ -27,6 +27,7 @@ profile:
     address:
     researchgate: Jeremiah-Nieves
     uofg: /schools/ges/staff/jeremiahnieves/
+    googlescholar: ueAm63IAAAAJ&hl
 ---
 <br>
 

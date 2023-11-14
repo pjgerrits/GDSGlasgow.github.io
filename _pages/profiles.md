@@ -59,6 +59,9 @@ nav_order: 2
                     {% if member.profile.researchgate_noprofile %}
                         <a href="https://www.researchgate.net/scientific-contributions/{{ member.profile.researchgate_noprofile }}" class="card-link" target="_blank"><i class="fab fa-researchgate"></i></a>
                     {% endif %}
+                    {% if member.profile.googlescholar %}
+                        <a href="https://scholar.google.com/citations?user={{ member.profile.googlescholar }}" class="card-link" target="_blank"><i class="fab fa-google"></i></a>
+                    {% endif %}
                     {% if member.profile.website %}
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
                     {% endif %}
