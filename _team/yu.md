@@ -11,7 +11,7 @@ lastname: Wang
 publications: 'author^=*Wang. Y'
 
 teaser: >
-    Yu is a PhD candidate in Geospatial Data Science, specializing in the intersection of urban studies and telecommunications.
+    Yu specializes in the intersection of urban studies and telecommunications.
 
 profile:
     name: Yu Wang
