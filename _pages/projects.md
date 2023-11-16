@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: our research projects.
+description: our research projects
 nav: true
 nav_order: 3
-display_categories: ['Our projects', 'Community projects where we contribute']
+display_categories: ['Our projects', 'Collaborative academic projects', 'Community projects where we contribute']
 horizontal: false
 ---
 
