@@ -623,6 +623,55 @@ footer.sticky-bottom {
 }
 
 
+// Partners
+
+.partners {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card {
+    height: 250px;
+    justify-content: center;
+    img {
+      width: 95%;
+      margin-top: 2px;
+      margin-bottom: 2px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+  }
+
+  .card-item {
+    width: auto;
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  .grid-sizer,
+  .grid-item {
+    width: 32%;
+    margin-bottom: 10px;
+  }
+
+  h2.category {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right;
+  }
+}
+
 // Publications
 
 .publications {

@@ -12,12 +12,3 @@ related_publications:
 
 GNSS is the most widely used positioning technique because of free-to-use, privacy-preserving, and globally available signals. However, GNSS signals can be blocked, reflected and/or attenuated by objects, e.g. trees, buildings, walls and windows. While blockage, attenuation and reflection of GNSS signals are common in urban canyons and indoors, making the positioning unreliable, inaccurate or impossible, the affected received signals can act as an indicator of the structure of the surrounding environments. This means, for example, if the signals are blocked or attenuated, then the size and shape of the obstacles or the type of media/material the signals have gone through or been reflected by can be understood. This needs the precise locations of satellites, and the receiver, and also predicted signal strength level at each location and time. The crowdsource-based framework, i.e. a mobile app for data capture and a web mapping application for upload of GNSS raw data, will allow the project to have well-distributed data both in space and time. This will ultimately lead to higher quality (more spatially and temporally accurate, complete, precise) 3D models. However due to the complexity of data, as neither the receiving mobile devices nor the broadcasting satellites are fixed, some novel data mining techniques, based on already existing statistical, ML, and AI techniques, need to be developed during this fellowship. They will handle the high volume, the velocity of change, and the complexity of the spatio-temporal GNSS raw data with high levels of veracity. The spatio-temporal patterns will be used for creating and updating the 3D models of cities at a high level of detail (LoDs), i.e. approximating the façade and the building materials, e.g. windows, from which the signals are reflected or have gone through. The 3D models will feed into 3D-mapping aided GNSS positioning (and integrated with other signals e.g. WiFi) which can ultimately provide more continuous and accurate GNSS positioning in urban canyons and indoors. 
 
-This research is supported by:
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/funders/ukri.png" title="UKRI" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-</div>

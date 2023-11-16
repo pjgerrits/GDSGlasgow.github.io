@@ -1,0 +1,17 @@
+<!-- _includes/partners.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if partner.redirect -%}
+  <a href="{{ partner.redirect }}">
+    {%- else -%}
+    <a href="{{ partner.url | relative_url }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if partner.img %}
+        {%- include figure.html
+          path=partner.img
+          alt="partner thumbnail" -%}
+        {%- endif %}
+      </div>
+    </a>
+</div>
