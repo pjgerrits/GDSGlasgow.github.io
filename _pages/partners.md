@@ -3,7 +3,7 @@ layout: page
 title: partners
 permalink: /partners/
 description: our research partners
-nav: true
+nav: false
 nav_order: 3.1
 display_categories: 
 horizontal: false

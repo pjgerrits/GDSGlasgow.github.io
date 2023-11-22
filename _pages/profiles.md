@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /profiles/
-title: people
+title: team
 description: members of our team
-nav: true
+nav: false
 nav_order: 2
 ---
 

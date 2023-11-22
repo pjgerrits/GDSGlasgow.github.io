@@ -18,7 +18,7 @@ profile:
     name: Jeremiah J. Nieves
     position: Research Software Engineer and Data Scientist
     align: right
-    image: jeremiah.png
+    image: jeremiah.jpg
     email: Jeremiah.Nieves@glasgow.ac.uk
     twitter:
     linkedin: jeremiahnieves
