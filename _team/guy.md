@@ -25,6 +25,12 @@ profile:
     address:
     uofg: /schools/ges/staff/guysolomon/
 ---
-Guy is an interdisciplinary researcher, with a background in geography, economic history, digital humanities, and economics. Currently, he works on the mathematics of cities with a particular emphasis on minority groups. His broader interests relate to the evolution of city systems over time, mathematical and statistical modelling, and economic development.
+<br>
 
-Guy previously held academic positions at The Alan Turing Institute and The Open University, before joining the University of Glasgow in 2023. He earned my PhD from the University of Exeter in 2020, where he also gained my MRes. Guy also holds an MSc (by research) from the University of York, and BA (Hons.) from the University of Oxford.
+## Interests
+urban environments, urban systems, minority groups, uncertainty, risk, geohumanities
+
+## Bio
+Guy is an interdisciplinary researcher, with a background in geography, digital humanities, social and economic history, and economics. Currently, he works on the mathematics of cities with a particular emphasis on minority groups. His broader interests relate to the evolution of city systems over time, mathematical and statistical modelling, and economic development.
+
+Guy previously held academic positions at The Alan Turing Institute and The Open University, before joining the University of Glasgow in early 2023. He earned his PhD from the University of Exeter in 2020, where he also gained my MRes. Guy also holds an MSc (by research) from the University of York, and BA (Hons.) from the University of Oxford.
