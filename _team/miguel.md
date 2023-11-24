@@ -17,7 +17,7 @@ profile:
     name: Miguel Fidel Pereira
     position: PhD candidate
     align: right
-    image: miguel.png
+    image: miguel.jpg
     email:
     twitter:
     linkedin:
@@ -25,4 +25,7 @@ profile:
     address:
     uofg: /pgrs/miguelfidelpereira/
 ---
+<br>
 
+## Interests
+GNSS, radio navigation, sensor fusion, DSP, data science
