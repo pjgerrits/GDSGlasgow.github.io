@@ -25,6 +25,9 @@ profile:
     address:
     uofg: /schools/ges/staff/mattjohnston/
 ---
+<br>
+
+## Bio
 Matt is a research assistant in the School of Geographical & Earth Sciences. His research focuses on the intersection of environmental governance policy and socio-technical change. Currently, the purpose of his work is to enhance the social and environmental outcomes of developments in data science and artificial intelligence with evidence-based policymaking advocacy.
 
 Alongside his work with the University of Glasgow, he works on financial and economic policy in the Scottish Parliament. Prior to this, he was the Head of Research, Policy & Parliamentary Engagement for a third sector organisation in South Africa, where he focused on government accountability to taxpayers with impact-oriented research, policy advocacy, and data-driven campaigning.
