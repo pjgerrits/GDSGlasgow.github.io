@@ -17,7 +17,7 @@ profile:
     name: Piet Gerrits
     position: PhD candidate
     align: right
-    image: piet.png
+    image: piet.jpg
     email: p.gerrits.1@research.gla.ac.uk
     twitter:
     linkedin:
