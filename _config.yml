@@ -268,7 +268,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['geospatial', 'data science', 'code', 'conference'] # these tags will be displayed on the front page of your blog
+display_tags: ['video', 'conference'] # these tags will be displayed on the front page of your blog
 display_categories: ['team'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
