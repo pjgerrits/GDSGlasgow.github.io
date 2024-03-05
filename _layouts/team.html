@@ -58,11 +58,21 @@ layout: default
     <br>
     </div>
 
+
+    {% if page.youtube %}
+    <h2 id="video">More</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src=https://www.youtube.com/embed/{{page.youtube}} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    {% endif %}
+    <br>
+
     {% if page.publications %}
     <h2 id="publications">Publications</h2>
     <div class="publications">
       {% bibliography -f papers -q @*[{{page.publications}}]* %}
     </div>
+
   {% endif %}
 
   </article>

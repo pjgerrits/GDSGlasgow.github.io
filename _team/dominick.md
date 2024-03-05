@@ -10,6 +10,8 @@ description: PhD candidate
 lastname: Sutton
 publications: 'author^=*Sutton'
 
+youtube: hQiqRb3zSyg
+
 teaser: >
     Dominick's research interests are in missing data and how it can affect the use of data in analytics, business decision-making and AI systems.
 
@@ -40,3 +42,4 @@ My research interests are in missing data and how it can affect the use of data 
 
 ## Awards
 Senate Medal from the University of South Africa
+
