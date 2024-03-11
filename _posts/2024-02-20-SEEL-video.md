@@ -6,7 +6,7 @@ author:
 description: 
 tags: video
 categories:
-thumbnail: https://i9.ytimg.com/vi_webp/nCkBwFPPi_c/mq2.webp?sqp=CIDOna8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChEMA8=&rs=AOn4CLCSR273p9VptT_hfUjY5CHYB8ysHw
+thumbnail: https://i3.ytimg.com/vi/nCkBwFPPi_c/maxresdefault.jpg
 ---
 
 

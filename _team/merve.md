@@ -10,6 +10,8 @@ description: PhD candidate
 lastname: Polat Kayali
 publications: 'author^=*Polat Kayali'
 
+youtube: 1VOOZgRWxbI
+
 teaser: >
     Merve focuses on the visualisation of missing geospatial data using Augmented Reality
 

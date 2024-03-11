@@ -10,6 +10,8 @@ description: PhD candidate
 lastname: Yuan
 publications: 'author^=*Yuan'
 
+youtube: A2xul8bPFfo
+
 teaser: >
     Xinyi focuses on the application of Explainable Artificial Intelligence (XAI) in cities and society.
 

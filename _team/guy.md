@@ -10,6 +10,8 @@ description: Research Associate in Mathematics of Cities
 lastname: Solomon
 publications: 'author^=*Solomon'
 
+youtube: 1ATaqrMqrig
+
 teaser: >
     Guy currently works on the mathematics of cities, with a particular emphasis on minority groups. His broader interests relate to the evolution of city systems over time, mathematical and statistical modelling, and economic development.
 
@@ -33,4 +35,4 @@ urban environments, urban systems, minority groups, uncertainty, risk, geohumani
 ## Bio
 Guy is an interdisciplinary researcher, with a background in geography, digital humanities, social and economic history, and economics. Currently, he works on the mathematics of cities with a particular emphasis on minority groups. His broader interests relate to the evolution of city systems over time, mathematical and statistical modelling, and economic development.
 
-Guy previously held academic positions at The Alan Turing Institute and The Open University, before joining the University of Glasgow in early 2023. He earned his PhD from the University of Exeter in 2020, where he also gained my MRes. Guy also holds an MSc (by research) from the University of York, and BA (Hons.) from the University of Oxford.
+Guy previously held academic positions at The Alan Turing Institute and The Open University, before joining the University of Glasgow in early 2023. He earned his PhD from the University of Exeter in 2020, where he also gained his MRes. Guy also holds an MSc (by research) from the University of York, and BA (Hons.) from the University of Oxford.

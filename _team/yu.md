@@ -10,6 +10,8 @@ description: PhD candidate
 lastname: Wang
 publications: 'author^=*Wang. Y'
 
+youtube: 5SP38ULu2bs
+
 teaser: >
     Yu specializes in the intersection of urban studies and telecommunications.
 

@@ -10,6 +10,8 @@ description: Research Software Engineering Scientist
 lastname: Shingleton
 publications: 'author^=*Shingleton'
 
+youtube: 8iCAXAbb7DM
+
 teaser: >
     Joe is a research software engineer and data scientist, currently working on geo-locating textual data using natural language processing.
 
