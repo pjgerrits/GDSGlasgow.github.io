@@ -12,7 +12,7 @@ publications: 'author^=*Gerrits'
 
 youtube: iOuUdmfqXps
 
-teaser: >
+teaser: Piet Gerrits is a PhD candidate at the School of Geographical & Earth Sciences, University of Glasgow. His research focuses on the use of geospatial data and machine learning to understand population dynamics in Turkey and Bulgaria. He also works as a Research Software Engineer in the GDSG team. In his spare time, he is a Data Science volunteer at Mapaction, a humanitarian mapping NGO.
 
 
 profile:
