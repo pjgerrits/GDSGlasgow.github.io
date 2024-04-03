@@ -10,6 +10,8 @@ description: Senior Lecturer in Geospatial Data Science
 lastname: Wang
 publications: 'author^=*Wang. M'
 
+youtube: lZoYaxgg7fc
+
 teaser: >
     Mingshu is a Senior Lecturer (Tenured Associate Professor) in Geospatial Data Science at the School of Geographical & Earth Sciences, University of Glasgow.
 

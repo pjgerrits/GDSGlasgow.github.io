@@ -22,8 +22,8 @@ profile:
     image: piet.jpg
     email: p.gerrits.1@research.gla.ac.uk
     twitter:
-    linkedin:
-    orcid:
+    linkedin: https://www.linkedin.com/in/pietgerrits/
+    orcid: 0000-0001-5808-0144
     address:
     uofg: /schools/ges/staff/petrusgerrits/
 ---
