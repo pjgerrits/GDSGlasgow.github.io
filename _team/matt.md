@@ -19,7 +19,7 @@ profile:
     name: Matt Johnston
     position: Research Assistant
     align: right
-    image: matt.png
+    image: matt.jpg
     email: Matt.Johnston@glasgow.ac.uk
     twitter:
     linkedin:

@@ -20,7 +20,7 @@ profile:
     name: Mingshu Wang
     position: Senior Lecturer in Geospatial Data Science
     align: right
-    image: mingshu.png
+    image: mingshu.jpg
     email: Mingshu.Wang@glasgow.ac.uk
     twitter:
     linkedin:

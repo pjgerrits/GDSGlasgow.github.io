@@ -19,7 +19,7 @@ profile:
     name: Joe Shingleton
     position: Research Software Engineering Scientist
     align: right
-    image: joe.png
+    image: joe.jpg
     email:  Joseph.Shingleton@glasgow.ac.uk
     twitter:
     linkedin: joe-shingleton-95b742176 

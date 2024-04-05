@@ -19,7 +19,7 @@ profile:
     name: Merve Polat Kayali
     position: PhD candidate
     align: right
-    image: merve.png
+    image: merve.jpg
     email: m.polat-kayali.1@research.gla.ac.uk
     twitter:
     linkedin: mmervepolat

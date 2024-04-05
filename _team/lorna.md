@@ -17,7 +17,7 @@ profile:
     name: Lorna Gee
     position: Administrative Assistant
     align: right
-    image: lorna.png
+    image: lorna.jpg
     email: Lorna.Gee@glasgow.ac.uk
     twitter:
     linkedin:

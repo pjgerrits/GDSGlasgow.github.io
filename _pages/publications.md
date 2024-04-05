@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: our most recent publications
+title: Research output
+description: our most recent research  outputs
 nav: false
 nav_order: 4
 ---
