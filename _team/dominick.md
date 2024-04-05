@@ -2,7 +2,7 @@
 layout: team
 inline: false
 group: students
-group_rank: 3
+group_rank: 2
 weight: 6
 
 title: Dominick Sutton
