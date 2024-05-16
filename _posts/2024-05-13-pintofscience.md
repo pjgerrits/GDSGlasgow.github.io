@@ -13,7 +13,7 @@ Join us for a Pint of Science with Dr Ian Turton, Joe Shingleton and Dr Guy Solo
 
 [Click here for more information regarding our speakers](https://pintofscience.co.uk/event/geospatial-insights)
 
-[Pint of Science](assets/img/logos/pintofscience.png)
+![Pint of Science](/assets/img/logos/pintofscience.png){:width="100%"}
 
 ### Information:
 #### Using AI to find Roman Roads
