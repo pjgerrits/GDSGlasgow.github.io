@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /opportunities/
-title: opportunities
+title: New Job Postings at the GDSG, University of Glasgow
 description: 
 nav: false
 nav_order: 6
 ---
 
-# New Job Postings at the University of Glasgow
 
 We are excited to announce the following new job opportunities for the Geospatial Data Science Group, within the College of Science & Engineering, School of Geographical & Earth Sciences.
 
@@ -17,6 +16,7 @@ We are excited to announce the following new job opportunities for the Geospatia
 - **Salary**: £39,347 to £44,263 per annum (Grade 7)
 - **Date Posted**: 04 September
 - **Closing Date**: 01 October
+- **Apply here:** [Geospatial Artificial Intelligence Research Scientist](https://www.jobs.ac.uk/job/DJO253/geospatial-artificial-intelligence-research-scientist)
 
 ---
 
@@ -26,6 +26,7 @@ We are excited to announce the following new job opportunities for the Geospatia
 - **Salary**: £39,347 to £44,263 per annum
 - **Date Posted**: 03 September
 - **Closing Date**: 01 October
+- **Apply here:** [Research Software Engineer: Geospatial Artificial Intelligence (Geo-AI)](https://www.jobs.ac.uk/job/DJN626/research-software-engineer-geospatial-artificial-intelligence-geo-ai)
 
 ---
 
@@ -35,6 +36,7 @@ We are excited to announce the following new job opportunities for the Geospatia
 - **Salary**: £39,347 to £56,021 per annum
 - **Date Posted**: 03 September
 - **Closing Date**: 01 October
+- **Apply here:** [Research Associate/Fellow in Urban Analytics](https://www.jobs.ac.uk/job/DJN619/research-associate-fellow-in-urban-analytics)
 
 ---
 
@@ -44,6 +46,7 @@ We are excited to announce the following new job opportunities for the Geospatia
 - **Salary**: £39,347 to £56,021 per annum
 - **Date Posted**: 03 September
 - **Closing Date**: 01 October
+- **Apply here:** [Research Associate / Fellow in Statistics of Missing Data](https://www.jobs.ac.uk/job/DJN638/research-associate-fellow-in-statistics-of-missing-data)
 
 ---
 
@@ -53,8 +56,19 @@ We are excited to announce the following new job opportunities for the Geospatia
 - **Salary**: Grade 7/8, £39,347 - £44,263 / £48,350 - £56,021 per annum
 - **Date Posted**: 03 September
 - **Closing Date**: 01 October
+- **Apply here:** [Research Associate/Fellow in Agent Based Modelling](https://www.jobs.ac.uk/job/DJN741/research-associate-fellow-in-agent-based-modelling)
 
 ---
 
-For more details and to apply, visit: [jobs.ac.uk](https://www.jobs.ac.uk/search/?keywords=Basiri&location=)
+### 6. Administrative Assistant
+- **Location**: Glasgow (Hybrid - work remotely up to 3 days per week)
+- **Salary**: £25,138 to £29,605 per annum
+- **Date Posted**: 04 September
+- **Closing Date**: 02 October
+- **Job Type**: Temporary
+- **Apply here:** [Administrative Assistant](https://findajob.dwp.gov.uk/details/15173014)
+
+---
+
+For more details and to apply, visit: [Research Positions](https://www.jobs.ac.uk/search/?keywords=Basiri&location=) and [Administrative Assistant](https://findajob.dwp.gov.uk/details/15173014)
 
