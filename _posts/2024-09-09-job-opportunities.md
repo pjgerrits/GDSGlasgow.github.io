@@ -6,10 +6,11 @@ author: Piet Gerrits
 description: 
 tags: opportunities
 categories:
-thumbnail: assets/img/logos/job_opp.png
+thumbnail:
 ---
 
-## New Job Opportunities at the University of Glasgow
+![opportunities](/assets/img/logos/job_opp.png){:width="100%"}
+
 
 We are pleased to announce several new job openings at the University of Glasgow, within the College of Science & Engineering, School of Geographical & Earth Sciences. Available positions include:
 
@@ -23,7 +24,7 @@ We are pleased to announce several new job openings at the University of Glasgow
 
 All positions are based in Glasgow, with competitive salaries and benefits.
 
-**Application deadline**: 01 October
+**Application deadline: 01 October**
 
 For more details and to apply for the research positions, please visit: [jobs.ac.uk](https://www.jobs.ac.uk/search/?keywords=Basiri&location=)
 
