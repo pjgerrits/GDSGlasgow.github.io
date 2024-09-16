@@ -2,7 +2,7 @@
 layout: team
 inline: false
 group: staff
-group_rank: 1
+group_rank: 3
 weight: 4
 
 title: Dr Guy Solomon
