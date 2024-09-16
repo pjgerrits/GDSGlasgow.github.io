@@ -17,7 +17,7 @@ teaser: >
 
 profile:
     name: Meiliu Wu
-    position: Research Associate
+    position: Lecturer
     align: right
     image: meiliu.jpg
     email: meiliu.wu@glasgow.ac.uk
