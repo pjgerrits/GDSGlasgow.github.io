@@ -1,7 +1,7 @@
 ---
 layout: team
 inline: false
-group: staff
+group: alumni
 group_rank: 3
 weight: 5
 
