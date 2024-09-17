@@ -70,5 +70,15 @@ We are excited to announce the following new job opportunities for the Geospatia
 
 ---
 
+### 7. Project Manager
+- **Location**: Glasgow
+- **Salary**: £39,347 to £44,263 per annum (pro rata)
+- **Date Posted**: 16 September
+- **Closing Date**: 14 October
+- **Job Type**: Part Time (17.5h per week, see details)
+- **Apply here:** [Project Manager](https://www.jobs.ac.uk/job/DJS964/project-manager)
+
+---
+
 For more details and to apply, visit: [Research Positions](https://www.jobs.ac.uk/search/?keywords=Basiri&location=) and [Administrative Assistant](https://findajob.dwp.gov.uk/details/15173014)
 
