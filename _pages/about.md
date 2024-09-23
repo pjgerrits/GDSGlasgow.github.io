@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: at <a href='https://www.gla.ac.uk/colleges/scienceengineering/research/researchthemes/datascience/geospatialdatascience/'>The University of Glasgow</a>
 
