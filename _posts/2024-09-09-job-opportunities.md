@@ -14,6 +14,7 @@ thumbnail:
 
 We are pleased to announce several new job openings at the University of Glasgow, within the College of Science & Engineering, School of Geographical & Earth Sciences. Available positions include:
 
+- **Project Manager** 
 - **Administrative Assistant** 
 - **Geospatial AI Research Scientist**
 - **Research Software Engineer (Geo-AI)**
