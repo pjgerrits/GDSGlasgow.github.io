@@ -1,9 +1,9 @@
 backend:
   name: github
   repo: GDSGlasgow/GDSGlasgow.github.io
-  branch: dev-pg
+  branch: gh-pages
   auth_scope: repo
-  # client_id: Ov23liniErM2fNTZXHQM
+  client_id: Ov23liniErM2fNTZXHQM
   # client_secret: 16770a8359a389c8973db7af875d81c23d1908ae
 
 media_folder: "assets/uploads"
