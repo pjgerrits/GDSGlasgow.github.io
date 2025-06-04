@@ -3,8 +3,8 @@ backend:
   repo: GDSGlasgow/GDSGlasgow.github.io
   branch: dev-pg
   auth_scope: repo
-  client_id: Ov23liniErM2fNTZXHQM
-  client_secret: 16770a8359a389c8973db7af875d81c23d1908ae
+  # client_id: Ov23liniErM2fNTZXHQM
+  # client_secret: 16770a8359a389c8973db7af875d81c23d1908ae
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
