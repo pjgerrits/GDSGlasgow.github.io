@@ -1,10 +1,23 @@
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Content Manager</title>
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <!-- Tell Decap CMS we want to initialize manually -->
+    <script>window.CMS_MANUAL_INIT = true;</script>
+    <!-- Load Decap CMS -->
+    <script src="https://unpkg.com/decap-cms@^3.6.3/dist/decap-cms.js"></script>
   </head>
   <body>
+    <!-- This is where Decap CMS will mount its React app -->
+    <div id="decap-cms-root" style="height: 100vh;"></div>
+
+    <script>
+      // Once the script is loaded, call CMS.init() pointing at our <div>
+      document.addEventListener("DOMContentLoaded", function () {
+        CMS.init({ container: document.getElementById("decap-cms-root") });
+      });
+    </script>
   </body>
 </html>
+
