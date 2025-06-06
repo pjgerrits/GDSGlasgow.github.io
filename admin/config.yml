@@ -6,7 +6,7 @@ backend:
   identity_url: https://auth.decapbridge.com/sites/68a9faf2-f948-4c16-8c0c-f60c660937c1
   gateway_url:  https://gateway.decapbridge.com
 
-  # (Optional) Commit message templates
+  # Optional: customize commit messages
   commit_messages:
     create: Create {{collection}} “{{slug}}” - {{author-name}} <{{author-login}}> via DecapBridge
     update: Update {{collection}} “{{slug}}” - {{author-name}} <{{author-login}}> via DecapBridge
@@ -15,21 +15,21 @@ backend:
     deleteMedia: Delete “{{path}}” - {{author-name}} <{{author-login}}> via DecapBridge
     openAuthoring: Message {{message}} - {{author-name}} <{{author-login}}> via DecapBridge
 
-# 2) (Optional) Replace the default Decap logo with a DecapBridge‐branded one
+# 2) (Optional) Replace the default Decap logo with DecapBridge’s version
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 
 # 3) (Optional) Show a “Visit Site” link in the CMS header
 site_url: https://gdsglasgow.github.io
 
-# 4) Tell Decap where to store uploaded files, and expose the Bridge media library
+# 4) Tell Decap where to store uploaded files
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 
-# **This is required** for DecapBridge’s media upload to work
+# Required for DecapBridge’s media upload to work
 media_library:
   name: "decap-bridge"
 
-# 5) Collections (your folders in dev-pg)
+# 5) Collections: point to the folders inside dev-pg that hold your Markdown
 collections:
   - name: "posts"
     label: "Blog Posts"
