@@ -2,7 +2,7 @@
 backend:
   name: git-gateway
   repo: GDSGlasgow/GDSGlasgow.github.io
-  branch: main
+  branch: gh-pages
   identity_url: https://auth.decapbridge.com/sites/68a9faf2-f948-4c16-8c0c-f60c660937c1
   gateway_url: https://gateway.decapbridge.com
 
