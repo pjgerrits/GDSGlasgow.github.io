@@ -1,4 +1,6 @@
-# Use DecapBridge Git Gateway
+# ── admin/config.yml ──
+
+# Use DecapBridge Git Gateway for auth & commits
 backend:
   name: git-gateway
   repo: GDSGlasgow/GDSGlasgow.github.io
@@ -6,24 +8,28 @@ backend:
   identity_url: https://auth.decapbridge.com/sites/68a9faf2-f948-4c16-8c0c-f60c660937c1
   gateway_url:  https://gateway.decapbridge.com
 
-# Optional commit message templates
+# Optional: Custom commit messages
 commit_messages:
-  create: Create {{collection}} "{{slug}}" - {{author-name}} <{{author-login}}> via DecapBridge
-  update: Update {{collection}} "{{slug}}" - {{author-name}} <{{author-login}}> via DecapBridge
-  delete: Delete {{collection}} "{{slug}}" - {{author-name}} <{{author-login}}> via DecapBridge
-  uploadMedia: Upload "{{path}}" - {{author-name}} <{{author-login}}> via DecapBridge
-  deleteMedia: Delete "{{path}}" - {{author-name}} <{{author-login}}> via DecapBridge
+  create: Create {{collection}} “{{slug}}” - {{author-name}} <{{author-login}}> via DecapBridge
+  update: Update {{collection}} “{{slug}}” - {{author-name}} <{{author-login}}> via DecapBridge
+  delete: Delete {{collection}} “{{slug}}” - {{author-name}} <{{author-login}}> via DecapBridge
+  uploadMedia: Upload “{{path}}” - {{author-name}} <{{author-login}}> via DecapBridge
+  deleteMedia: Delete “{{path}}” - {{author-name}} <{{author-login}}> via DecapBridge
   openAuthoring: Message {{message}} - {{author-name}} <{{author-login}}> via DecapBridge
 
-# Optional branding and links
+# Custom logo and site link
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 site_url: https://gdsglasgow.github.io
 
-# Media configuration
+# Media settings
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 
-# Collections
+# Required for DecapBridge media upload
+media_library:
+  name: "decap-bridge"
+
+# Collections mapping to your dev-pg folders
 collections:
   - name: "posts"
     label: "Blog Posts"
