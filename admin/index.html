@@ -2,31 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>GDS Glasgow CMS</title>
-    <!-- Prevent Decap CMS auto-mount -->
-    <script>window.CMS_MANUAL_INIT = true;</script>
-    <!-- Core Decap CMS library -->
+    <title>Content Manager</title>
+    <!-- Load Decap CMS (auto‑init) -->
     <script src="https://unpkg.com/decap-cms@^3.6.3/dist/decap-cms.js"></script>
-    <!-- DecapBridge media library plugin -->
-    <script src="https://unpkg.com/decap-cms-media-library-decap-bridge@latest/dist/decap-cms-media-library-decap-bridge.js"></script>
   </head>
   <body>
-    <!-- CMS mount point -->
-    <div id="decap-cms-root" style="height: 100vh;"></div>
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        // Locate the Bridge plugin (global name may vary)
-        const pluginGlobal = window.DecapCmsMediaLibraryDecapBridge || window.DecapBridgeMediaLibrary;
-        const pluginFn = pluginGlobal && (pluginGlobal.default || pluginGlobal);
-        if (typeof pluginFn === "function") {
-          CMS.registerMediaLibrary(pluginFn());
-        } else {
-          console.error("DecapBridge media library plugin not found", pluginGlobal);
-        }
-        // Initialize Decap CMS into our mount point
-        CMS.init({ container: document.getElementById("decap-cms-root") });
-      });
-    </script>
+    <!-- Empty body: Decap will auto‑mount its UI here -->
   </body>
 </html>
