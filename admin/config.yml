@@ -1,0 +1,55 @@
+# ── admin/config.yml ──
+
+backend:
+  name: git-gateway
+  repo: GDSGlasgow/GDSGlasgow.github.io
+  branch: dev-pg
+  identity_url: https://auth.decapbridge.com/sites/68a9faf2-f948-4c16-8c0c-f60c660937c1
+  gateway_url:  https://gateway.decapbridge.com
+
+# Where uploaded media goes (optional: no media library plugin loaded yet)
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+# Collections pointing to your Markdown folders
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date",  name: "date",  widget: "datetime" }
+      - { label: "Body",  name: "body",  widget: "markdown" }
+
+  - name: "projects"
+    label: "Projects"
+    folder: "_projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title",       name: "title",       widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body",        name: "body",        widget: "markdown" }
+
+  - name: "team"
+    label: "Team Members"
+    folder: "_team"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name",  name: "title",  widget: "string" }
+      - { label: "Role",  name: "role",   widget: "string" }
+      - { label: "Email", name: "email",  widget: "string", required: false }
+      - { label: "Body",  name: "body",   widget: "markdown" }
+
+  - name: "news"
+    label: "News"
+    folder: "_news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date",  name: "date",  widget: "datetime" }
+      - { label: "Body",  name: "body",  widget: "markdown" }
